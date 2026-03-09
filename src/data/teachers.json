@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Mr. Sharma", "subject": "Math" },
+  { "id": 2, "name": "Ms. Kapoor", "subject": "Science" },
+  { "id": 3, "name": "Mr. Verma", "subject": "English" },
+  { "id": 4, "name": "Ms. Iyer", "subject": "History" },
+  { "id": 5, "name": "Mr. Khan", "subject": "Computer" }
+]
